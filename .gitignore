@@ -1,0 +1,12 @@
+# Flutter
+/build/
+/.dart_tool/
+/.idea/
+/ios/
+/android/
+/web/
+/windows/
+/macos/
+/linux/
+*.iml
+*.lock
